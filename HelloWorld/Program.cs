@@ -12,8 +12,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Enter Your name & AGE");
             string name=Console.ReadLine();
-            int age = Console.Read();
-            Console.WriteLine(name+age);
+          
+            Console.WriteLine(name);
             Console.ReadKey();
         }
     }
